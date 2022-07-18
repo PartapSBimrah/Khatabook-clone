@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_sign">€</string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">OTP sera détecté automatiquement ou vous pouvez saisir manuellement OTP envoyé à </font>]]></string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_customer">Cliente</string>
+    <string name="nav_transaction">Transaction</string>
+    <string name="passcodeparagraph1">Entrez le code d\'accès à 4 chiffres</string>
+    <string name="passcodeparagraph4">Vous ne vous souvenez pas d\'un mot de passe?</string>
+    <string name="passcodeparagraph5">Recréer</string>
+    <string name="homedashboardstatusbar">Relevé de compte</string>
+    <string name="homedashboardparagraph1">Solde net</string>
+    <string name="debitbalancetext">Débit</string>
+    <string name="creditbalancetext">Crédit</string>
+    <string name="homedashboardparagraph2">Jusqu\'à la dernière transaction</string>
+    <string name="homedashboardparagraph3">toutes transactions</string>
+    <string name="homedashboardparagraph4">VOIR TOUT</string>
+    <string name="selectcustomerdashboardstatusbar">Sélectionnez un client</string>
+    <string name="selectcustomerdashboardheading">Ajouter un nouveau contact</string>
+    <string name="selectcustomerdashboardparagraph1">Tous les contacts</string>
+    <string name="transactionlistdashboardstatusbar">Liste des transactions</string>
+    <string name="debitbutton">Vous avez donné</string>
+    <string name="creditbutton">Vous avez</string>
+    <string name="transaction_details">Payer la facture</string>
+    <string name="welcome1">Gérez votre entreprise: envoyez des rappels et recevez des paiements!</string>
+    <string name="welcome2">Approuvé par 2 entreprises Crore + à travers le monde</string>
+    <string name="welcome3button">Commencez à utiliser KhataBook</string>
+    <string name="otp3">Nous vous enverrons un mot de passe unique sur ce numéro de mobile</string>
+    <string name="entermbl">Entrez le numéro de mobile</string>
+    <string name="txt5">Vous n\'avez pas reçu l\'OTP?</string>
+    <string name="txt6">VÉRIFIER</string>
+    <string name="sharewith">Partagez avec votre client</string>
+    <string name="txt7">Montant de la transaction</string>
+    <string name="txt8">Raison du paiement</string>
+</resources>

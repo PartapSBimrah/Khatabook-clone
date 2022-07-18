@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_sign">₽</string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">OTP будет обнаружен автоматически, или вы можете вручную ввести OTP, отправленный на </font>]]></string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_customer">Клиент</string>
+    <string name="nav_transaction">Сделка</string>
+    <string name="passcodeparagraph1">Введите 4-значный пароль</string>
+    <string name="passcodeparagraph4">Не помните пароль?</string>
+    <string name="passcodeparagraph5">Воссоздать</string>
+    <string name="homedashboardstatusbar">Краткий отчет</string>
+    <string name="homedashboardparagraph1">Чистый баланс</string>
+    <string name="debitbalancetext">Списание средств</string>
+    <string name="creditbalancetext">Кредит</string>
+    <string name="homedashboardparagraph2">До последней транзакции</string>
+    <string name="homedashboardparagraph3">Все транзакции</string>
+    <string name="homedashboardparagraph4">УВИДЕТЬ ВСЕ</string>
+    <string name="selectcustomerdashboardstatusbar">Выберите клиента</string>
+    <string name="selectcustomerdashboardheading">Добавить новый контакт</string>
+    <string name="selectcustomerdashboardparagraph1">Все контакты</string>
+    <string name="transactionlistdashboardstatusbar">Список транзакций</string>
+    <string name="debitbutton">Ты дал</string>
+    <string name="creditbutton">Ты получил</string>
+    <string name="transaction_details">Оплатить счет</string>
+    <string name="welcome1">Управляйте своим бизнесом: отправляйте напоминания и получайте платежи!</string>
+    <string name="welcome2">Нам доверяют 2 компании Crore + по всему миру</string>
+    <string name="welcome3button">Начать использовать KhataBook</string>
+    <string name="otp3">Мы отправим вам одноразовый пароль на этот номер мобильного телефона.</string>
+    <string name="entermbl">Введите номер мобильного телефона</string>
+    <string name="txt5">Не получили одноразовый пароль?</string>
+    <string name="txt6">ПРОВЕРИТЬ</string>
+    <string name="sharewith">Поделитесь с вашим клиентом</string>
+    <string name="txt7">Сумма транзакции</string>
+    <string name="txt8">Причина оплаты</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_sign">₹</string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">OTP का स्वचालित रूप से पता लगाया जाएगा या आप मैन्युअल रूप से भेजे गए OTP को दर्ज कर सकते हैं </font>]]></string>
+    <string name="nav_home">घर</string>
+    <string name="nav_customer">ग्राहक</string>
+    <string name="nav_transaction">चलाना</string>
+    <string name="passcodeparagraph1">4 अंक पासकोड दर्ज करें</string>
+    <string name="passcodeparagraph4">पासकोड याद नहीं है?</string>
+    <string name="passcodeparagraph5">फिर से बनाने के</string>
+    <string name="homedashboardstatusbar">खाता सारांश</string>
+    <string name="homedashboardparagraph1">नेट बैलेंस</string>
+    <string name="debitbalancetext">नामे</string>
+    <string name="creditbalancetext">श्रेय</string>
+    <string name="homedashboardparagraph2">अंतिम लेन-देन तक</string>
+    <string name="homedashboardparagraph3">सभी लेन - देन</string>
+    <string name="homedashboardparagraph4">सभी देखें</string>
+    <string name="selectcustomerdashboardstatusbar">ग्राहक का चयन करें</string>
+    <string name="selectcustomerdashboardheading">नए संपर्क को जोड़े</string>
+    <string name="selectcustomerdashboardparagraph1">सभी संपर्क</string>
+    <string name="transactionlistdashboardstatusbar">लेन-देन सूची</string>
+    <string name="debitbutton">आपने दिया</string>
+    <string name="creditbutton">आपको मिला</string>
+    <string name="transaction_details">बिल के लिए भुगतान करें</string>
+    <string name="welcome1">अपना व्यवसाय प्रबंधित करें: अनुस्मारक भेजें और भुगतान प्राप्त करें!</string>
+    <string name="welcome2">दुनिया भर में 2 करोड़ + व्यवसायों द्वारा भरोसा किया</string>
+    <string name="welcome3button">खताबुक का उपयोग शुरू करें</string>
+    <string name="otp3">हम आपको इस मोबाइल नंबर पर वन टाइम पासवर्ड भेजेंगे</string>
+    <string name="entermbl">मोबाइल नंबर दर्ज करें</string>
+    <string name="txt5">OTP प्राप्त नहीं हुआ?</string>
+    <string name="txt6">सत्यापित करें।</string>
+    <string name="sharewith">अपने ग्राहक के साथ साझा करें</string>
+    <string name="txt7">लेन - देन की राशि</string>
+    <string name="txt8">भुगतान का कारण</string>
+</resources>

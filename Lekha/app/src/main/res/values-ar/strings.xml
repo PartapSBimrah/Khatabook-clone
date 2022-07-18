@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_sign">د.إ</string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">سيتم اكتشاف OTP تلقائيًا أو يمكنك إدخال OTP يدويًا المرسل إليه </font>]]></string>
+    <string name="nav_home">الصفحة الرئيسية</string>
+    <string name="nav_customer">الزبون</string>
+    <string name="nav_transaction">عملية تجارية</string>
+    <string name="passcodeparagraph1">أدخل رمز المرور المكون من 4 أرقام</string>
+    <string name="passcodeparagraph4">لا تتذكر رمز المرور؟</string>
+    <string name="passcodeparagraph5">إعادة إنشاء</string>
+    <string name="homedashboardstatusbar">ملخص الحساب</string>
+    <string name="homedashboardparagraph1">الرصيد الصافي</string>
+    <string name="debitbalancetext">مدين</string>
+    <string name="creditbalancetext">ائتمان</string>
+    <string name="homedashboardparagraph2">حتى آخر معاملة</string>
+    <string name="homedashboardparagraph3">كل الحركات المالية</string>
+    <string name="homedashboardparagraph4">اظهار الكل</string>
+    <string name="selectcustomerdashboardstatusbar">حدد العميل</string>
+    <string name="selectcustomerdashboardheading">إضافة جهة اتصال جديدة</string>
+    <string name="selectcustomerdashboardparagraph1">كل الاتصالات</string>
+    <string name="transactionlistdashboardstatusbar">قائمة المعاملات</string>
+    <string name="debitbutton">أنت أعطيت</string>
+    <string name="creditbutton">أنت حصلت</string>
+    <string name="transaction_details">دفع الفاتورة</string>
+    <string name="welcome1">إدارة عملك: إرسال رسائل تذكير واستلام المدفوعات!</string>
+    <string name="welcome2">موثوق به من قبل 2 كرور + شركة في جميع أنحاء العالم</string>
+    <string name="welcome3button">ابدأ باستخدام KhataBook</string>
+    <string name="otp3">سنرسل لك كلمة مرور لمرة واحدة على رقم الهاتف المحمول هذا</string>
+    <string name="entermbl">أدخل رقم الهاتف المتحرك</string>
+    <string name="txt5">لم تستلم OTP؟</string>
+    <string name="txt6">تحقق</string>
+    <string name="sharewith">شارك مع عميلك</string>
+    <string name="txt7">قيمة التحويل</string>
+    <string name="txt8">السبب للدفع</string>
+</resources>

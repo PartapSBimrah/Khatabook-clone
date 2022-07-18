@@ -1,0 +1,60 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppTheme.Dark" parent="Theme.MaterialComponents">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/window_background_dark</item>
+        <item name="themeWindowBackgroundColor">@color/window_background_dark</item>
+        <item name="themeArticleTitleColor">@color/article_title_dark</item>
+        <item name="themeArticleDateTimeColor">@color/article_date_time_dark</item>
+        <item name="themeArticleRowBackgroundColor">@color/article_row_background_dark</item>
+        <item name="themeNavDrawerIconColor">@color/nav_drawer_icon_dark</item>
+        <item name="themeNavDrawerTextColor">@color/nav_drawer_item_dark</item>
+        <item name="themeButtonViewInBrowserTitleColor">@color/button_view_in_browser_title_dark</item>
+        <item name="themeButtonViewInBrowserBackgroundColor">@color/button_view_in_browser_background_dark</item>
+    </style>
+
+    <style name="AppTheme.Light" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">#fff</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/window_background_light</item>
+        <item name="themeWindowBackgroundColor">@color/window_background_light</item>
+        <item name="themeArticleTitleColor">@color/article_title_light</item>
+        <item name="themeArticleDateTimeColor">@color/article_date_time_light</item>
+        <item name="themeArticleRowBackgroundColor">@color/article_row_background_light</item>
+        <item name="themeNavDrawerIconColor">@color/nav_drawer_icon_light</item>
+        <item name="themeNavDrawerTextColor">@color/nav_drawer_item_light</item>
+        <item name="themeButtonViewInBrowserTitleColor">@color/button_view_in_browser_title_light</item>
+        <item name="themeButtonViewInBrowserBackgroundColor">@color/button_view_in_browser_background_light</item>
+    </style>
+
+    <style name="AppTheme.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Dark.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">#FFCC00</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:background">#5fa3d0</item>
+    </style>
+
+
+
+</resources>

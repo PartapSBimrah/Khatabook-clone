@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_sign">€</string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">La OTP se detectará automáticamente o puede ingresar manualmente la OTP enviada a </font>]]></string>
+    <string name="nav_home">Casa</string>
+    <string name="nav_customer">Cliente</string>
+    <string name="nav_transaction">Transacción</string>
+    <string name="passcodeparagraph1">Ingrese la contraseña de 4 dígitos</string>
+    <string name="passcodeparagraph4">¿No recuerdas una contraseña?</string>
+    <string name="passcodeparagraph5">Recrear</string>
+    <string name="homedashboardstatusbar">Resumen de la cuenta</string>
+    <string name="homedashboardparagraph1">Balance neto</string>
+    <string name="debitbalancetext">Débito</string>
+    <string name="creditbalancetext">Crédito</string>
+    <string name="homedashboardparagraph2">Hasta la última transacción</string>
+    <string name="homedashboardparagraph3">Todas las transacciones</string>
+    <string name="homedashboardparagraph4">VER TODO</string>
+    <string name="selectcustomerdashboardstatusbar">Seleccionar cliente</string>
+    <string name="selectcustomerdashboardheading">Añadir nuevo contacto</string>
+    <string name="selectcustomerdashboardparagraph1">Todos los contactos</string>
+    <string name="transactionlistdashboardstatusbar">Lista de transacciones</string>
+    <string name="debitbutton">Tu diste</string>
+    <string name="creditbutton">Tu tienes</string>
+    <string name="transaction_details">Pagar la factura</string>
+    <string name="welcome1">Administre su negocio: envíe recordatorios y reciba pagos.</string>
+    <string name="welcome2">Con la confianza de 2 Crore + empresas de todo el mundo</string>
+    <string name="welcome3button">Empiece a usar KhataBook</string>
+    <string name="otp3">Le enviaremos una contraseña única en este número de teléfono móvil</string>
+    <string name="entermbl">Ingrese el número de celular</string>
+    <string name="txt5">¿No recibió la OTP?</string>
+    <string name="txt6">VERIFICAR</string>
+    <string name="sharewith">Comparta con su cliente</string>
+    <string name="txt7">cantidad de transacción</string>
+    <string name="txt8">Razón de pago</string>
+</resources>

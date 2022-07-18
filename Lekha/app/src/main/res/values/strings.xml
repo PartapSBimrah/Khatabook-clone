@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">Khatabook</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_ad_unit" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="currency_sign">$</string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">OTP will be detected automatically or you can  manually enter OTP sent to </font>]]></string>
+    <string name="nav_home">Home</string>
+    <string name="nav_customer">Customer</string>
+    <string name="nav_transaction">Transaction</string>
+    <string name="passcodeparagraph1">Enter 4 digit Passcode</string>
+    <string name="passcodeparagraph4">Don\'t remember a passcode ?</string>
+    <string name="passcodeparagraph5">Re-create</string>
+    <string name="homedashboardstatusbar">Account Summary</string>
+    <string name="homedashboardparagraph1">Net Balance</string>
+    <string name="debitbalancetext">Debit</string>
+    <string name="creditbalancetext">Credit</string>
+    <string name="homedashboardparagraph2">Till Last Transaction</string>
+    <string name="homedashboardparagraph3">All Transactions</string>
+    <string name="homedashboardparagraph4">SEE ALL</string>
+    <string name="selectcustomerdashboardstatusbar">Select Customer</string>
+    <string name="selectcustomerdashboardheading">Add New Contact</string>
+    <string name="selectcustomerdashboardparagraph1">All Contacts</string>
+    <string name="transactionlistdashboardstatusbar">Transaction List</string>
+    <string-array name="numbers">
+        <item>All Transactions </item>
+        <item>Credit Transactions</item>
+        <item>Debit Transactions</item>
+    </string-array>
+    <string name="debitbutton">You Gave</string>
+    <string name="creditbutton">You Got</string>
+    <string name="customername" translatable="false">Pharid</string>
+    <string name="customerphonenumber" translatable="false">+977 9868606202</string>
+    <string name="transactionamountcredit" translatable="false">+17000</string>
+    <string name="transactionamountdebit" translatable="false">-17000</string>
+    <string name="transactiondate" translatable="false">24 December 2020 10:00 AM</string>
+    <string name="transaction_details">Pay For Bill</string>
+    <string name="welcome1">Manage your business: Send reminders and receive payments!</string>
+    <string name="welcome2">Trusted by 2 Crore+ businesses across the world</string>
+    <string name="welcome3button">Start using KhataBook</string>
+    <string name="otp3">We will send you an One Time Password on this mobile number</string>
+    <string name="entermbl">Enter Mobile Number</string>
+    <string name="txt5">Didn\'t receive the OTP?</string>
+    <string name="txt6">VERIFY</string>
+    <string name="sharewith">Share With Your Customer</string>
+    <string name="txt7">Transaction Amount</string>
+    <string name="txt8">Reason For Payment</string>
+</resources>

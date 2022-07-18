@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#800080</color>
+    <color name="colorPrimaryDark">#800080</color>
+    <color name="colorAccent">#1774F0</color>
+    <color name="validationerror">#EA2027</color>
+    <color name="dashboardstatusbar">#FCFCFC</color>
+    <color name="black">#000000</color>
+    <color name="warning">#FC5C65</color>
+    <color name="sucess">#26DE81</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#BDC3C7</color>
+    <color name="background">#FCFCFC</color>
+
+    <!-- Colors for dark theme-->
+    <color name="window_background_dark">#424242</color>
+    <color name="article_row_background_dark">#262626</color>
+    <color name="article_title_dark">#e3e3e3</color>
+    <color name="article_date_time_dark">#7997c8</color>
+    <color name="nav_drawer_icon_dark">@color/article_title_dark</color>
+    <color name="nav_drawer_item_dark">@color/article_title_dark</color>
+    <color name="button_view_in_browser_title_dark">#424242</color>
+    <color name="button_view_in_browser_background_dark">#ccc</color>
+
+    <!-- Colors for light theme-->
+    <color name="window_background_light">#ffffff</color>
+    <color name="article_row_background_light">#ffffff</color>
+    <color name="article_title_light">#424242</color>
+    <color name="article_date_time_light">#4589f9</color>
+    <color name="nav_drawer_icon_light">@color/article_title_light</color>
+    <color name="nav_drawer_item_light">@color/article_title_light</color>
+    <color name="button_view_in_browser_title_light">#e3e3e3</color>
+    <color name="button_view_in_browser_background_light">@color/colorPrimary</color>
+
+
+
+</resources>

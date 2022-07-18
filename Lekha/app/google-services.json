@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741456656932",
+    "project_id": "khatabook-f1b4a",
+    "storage_bucket": "khatabook-f1b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741456656932:android:561354298131d9870a76b1",
+        "android_client_info": {
+          "package_name": "com.likwiik.lekha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741456656932-al44mf1n3g9gl0o60lolreub5c1i1gln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qkfGQXMGLSEa0TP6fbvMJ_aR_0BaWeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741456656932-al44mf1n3g9gl0o60lolreub5c1i1gln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

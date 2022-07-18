@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".activity.MainActivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="100">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="8"
+                android:orientation="horizontal"
+                android:visibility="visible"
+                android:weightSum="100">
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="50"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:weightSum="100">
+
+                    <ImageView
+                        android:layout_width="145dp"
+                        android:layout_height="55dp"
+                        android:layout_marginBottom="5dp"
+                        android:gravity="center"
+                        app:srcCompat="@drawable/logo" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+
+                    android:layout_weight="25"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="visible"
+                    android:weightSum="100">
+
+                    <com.jaredrummler.materialspinner.MaterialSpinner
+                        android:id="@+id/spinner2"
+                        android:layout_width="120dp"
+                        android:layout_height="60dp"
+                        app:ms_background_color="?attr/themeWindowBackgroundColor"
+                        app:ms_text_color="?attr/themeArticleTitleColor" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="20"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="visible"
+                    android:weightSum="100">
+
+                    <com.jaredrummler.materialspinner.MaterialSpinner
+                        android:id="@+id/spinner"
+                        android:layout_width="100dp"
+                        android:layout_height="60dp"
+                        app:ms_background_color="?attr/themeWindowBackgroundColor"
+                        app:ms_text_color="?attr/themeArticleTitleColor" />
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/status_bar"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="10"
+                android:padding="0dp"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/sidebar_icon"
+                    android:layout_width="30dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="7dp"
+                    android:paddingLeft="5dp"
+                    android:src="@drawable/sidebar_icon">
+
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/status_bar_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/homedashboardstatusbar"
+                    android:textColor="?attr/themeArticleTitleColor"
+                    android:textSize="20sp">
+
+                </TextView>
+
+            </RelativeLayout>
+
+            <FrameLayout
+                android:id="@+id/frame_container"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_above="@id/bottom_navigation"
+                android:layout_below="@+id/status_bar"
+                android:layout_weight="84"></FrameLayout>
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:visibility="visible"
+                app:adSize="BANNER"
+                app:adUnitId="@string/banner_ad_unit">
+
+            </com.google.android.gms.ads.AdView>
+
+            <com.google.android.material.bottomnavigation.BottomNavigationView
+                android:id="@+id/bottom_navigation"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_alignParentBottom="true"
+                android:layout_weight="8"
+                app:itemBackground="?attr/themeWindowBackgroundColor"
+                app:itemIconTint="?attr/themeArticleTitleColor"
+                app:itemTextColor="?attr/themeArticleTitleColor"
+                app:menu="@menu/bottom_nav">
+
+            </com.google.android.material.bottomnavigation.BottomNavigationView>
+        </LinearLayout>
+    </LinearLayout>
